@@ -35,4 +35,4 @@ Now you're ready to see my portfolio in action! **Warning**: May cause sudden ur
 Feel free to reach out if you’d like to collaborate, have any questions, or just want to send me a good programming joke. You can find me here:
 
 - **Email**: elizar.aitbek@gmail.com
-- **LinkedIn**: [linkedin.com/in/elizaraitbek](https://linkedin.com/in/elizaraitbek)
+- **LinkedIn**: [linkedin.com/in/ElizarAitbek](https://linkedin.com/in/elizar-aitbek)
